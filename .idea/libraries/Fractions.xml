@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Fractions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Fractions/out/artifacts/Fractions_jar/Fractions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../School/COSC2P03/Brock.jar!/" />
+    </SOURCES>
+  </library>
+</component>
